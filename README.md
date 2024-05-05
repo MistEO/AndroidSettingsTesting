@@ -27,9 +27,9 @@ MaaFramework 实践模板。
 
         1. 执行安装脚本
            
-          ```bash
-          python ./install.py
-          ```
+      ```bash
+      python ./install.py
+      ```
       
         2. 运行 install/MaaPiCli.exe
 
